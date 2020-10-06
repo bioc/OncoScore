@@ -42,6 +42,5 @@ Perform OncoScore analysis on a given chromosomic region
 chromosome = 15
 start = 200000
 end = 300000
-\donttest{compute.oncoscore.from.region(chromosome, start, end)}
 
 }
